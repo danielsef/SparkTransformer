@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.streamsets:streamsets-datacollector-api:3.5.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.streamsets/streamsets-datacollector-api/jars/streamsets-datacollector-api-3.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.streamsets/streamsets-datacollector-api/srcs/streamsets-datacollector-api-3.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
